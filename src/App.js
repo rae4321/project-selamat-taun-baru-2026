@@ -67,6 +67,16 @@ function App() {
             />
           </div>
         )}
+        <footer style={{
+          position: "absolute",
+          bottom: "20px",
+          width: "100%",
+          textAlign: "center",
+          color: "white",
+          opacity: 0.6
+        }}>
+          <p>Created by Rey ✨</p>
+        </footer>
       </div>
     </div>
   );
